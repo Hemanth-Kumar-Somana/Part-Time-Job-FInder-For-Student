@@ -75,7 +75,6 @@ A full-stack job marketplace platform connecting students (Finders) seeking part
 - Future enhancements may include:
   - Real-time chat 💬
   - Rating system ⭐
-  - Enhanced wallet with transaction history 💳
 
 ---
 
