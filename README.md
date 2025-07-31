@@ -1,4 +1,4 @@
-# 💼 WorkHop / PocketJob / EarnEase
+# 💼 Part time job finder for students(EarnEase)
 
 **Connecting students with short-term gigs.**  
 An intuitive platform where employers (Posters) can post temporary jobs and students (Finders) can discover, apply, and negotiate for those jobs — with wallet tracking and job completion confirmations.
